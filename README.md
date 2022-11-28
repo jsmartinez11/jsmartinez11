@@ -15,5 +15,5 @@ As I continue to focus in Software Engineering, I hope you can join me on my jou
 - ⚡ I’m looking to collaborate on projects within the world of Real Estate, Sports, and Fintech
 - 💎 Ask me about my interest in Web Development and UI/UX
 - 🚀 Goals for the Future: Learn more about Algorithms and Data Structures
-- 📫 How to reach me: www.linkedin.com/in/josephmartinez11
 - ⚖️ Fun fact: I am very good at Pickleball and am soon staring an Airbnb
+- 📫 How to reach me: www.linkedin.com/in/josephmartinez11
