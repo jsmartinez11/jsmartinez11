@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi👋
 
-<!--
-**jsmartinez11/jsmartinez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joseph, a second-year Computer Science student at Arizona State University.
 
-Here are some ideas to get you started:
+As I continue to focus in Software Engineering, I hope you can join me on my journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Projects:
+  - Hack Harvard @ Harvard University - TravAlly (https://devpost.com/software/travally). [October 2022]
+  - Tutoring Web App - Personal Project (https://github.com/jsmartinez11/Tutoring-Web-App-Project). [Fall 2022]
+- ⚛️ Languages & Technologies: 
+  - Java, JavaScript, CSS, HTML
+- 🛠 Tools & Frameworks:
+  - React.js, Node.js, Vistual Studio Code, Git [Certified by GitKraken]
+- 🌱 I’m currently improving my skills in React.js and Node.js
+- ⚡ I’m looking to collaborate on projects within the world of Real Estate, Sports, and Fintech
+- 💎 Ask me about my interest in Web Development and UI/UX
+- 🚀 Goals for the Future: Learn more about Algorithms and Data Structures
+- 📫 How to reach me: www.linkedin.com/in/josephmartinez11
+- ⚖️ Fun fact: I am very good at Pickleball and am soon staring an Airbnb
