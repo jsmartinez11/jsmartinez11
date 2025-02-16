@@ -1,6 +1,6 @@
 Hi👋
 
-I'm Joseph, a second-year Computer Science student at Arizona State University.
+I'm Joseph, a fourth-year Computer Science student at Arizona State University.
 
 As I continue to focus in Software Engineering, I hope you can join me on my journey:
 
